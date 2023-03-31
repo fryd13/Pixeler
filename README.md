@@ -18,7 +18,7 @@ As you play, you collect coins which you can spend on different skins or unlock 
 
 ## Download
 You can download Pixeler here:
-* [https://play.google.com/store/apps/details?id=com.KudlatyGames.Pixeler](Google Play)
+* [Google Play](https://play.google.com/store/apps/details?id=com.KudlatyGames.Pixeler)
 
 ##Technologies 
 * Unity
