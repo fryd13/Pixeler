@@ -1,5 +1,7 @@
 # Pixeler
-<img align="center" src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/PixelerBackground.png" width="500" height="244">
+<p align="center" >
+<img src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/PixelerBackground.png" width="500" height="244">
+</p>
 Pixeler is a pong game in a fresh pixel art version!
 <img src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/screenshotphonemain.png" height="400" width="200" align="center">
 ## Description
