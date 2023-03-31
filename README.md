@@ -5,7 +5,7 @@
 
 ### Pixeler is a pong game in a fresh pixel art version!
 <p align="center">
-<img src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/screenshotphonemain.png" height="700" width="370">
+<img src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/screenshotphonemain.png" height="500" width="264">
 </p>
 
 ## Description
@@ -15,7 +15,7 @@ The game includes three modes:
 * Two players
 As you play, you collect coins which you can spend on different skins or unlock new modes!
 <p align="center">
-<img src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/screenshotphone.png" height="700" width="370">
+<img src="https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/screenshotphone.png" height="500" width="264">
 </p>
 
 ## License
