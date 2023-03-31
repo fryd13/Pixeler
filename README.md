@@ -1,5 +1,5 @@
 # Pixeler
-![Example](https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/PixelerBackground.png = 300x600)
+![Example](https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/PixelerBackground.png =300x600)
 Pixeler is a pong game in a fresh pixel art version!
 ![Example2](https://github.com/fryd13/Pixeler/blob/master/PixelerPhotos/screenshotphonemain.png)
 ##Description
